@@ -1,1 +1,9 @@
-
+print("BIODATA")
+print("Name: Rahul Patel")
+print("Age: 18")
+print("Gender: Male")
+print("Date of Birth: 15-08-2008")
+print("Address: Rajkot, Gujarat")
+print("Mobile: 9876543210")
+print("Email: rahul@example.com")
+print("Qualification: 12th Pass")
